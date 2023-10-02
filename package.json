@@ -3,7 +3,6 @@
   "version": "0.0.1",
   "description": "Learning how to create react without CRA",
   "main": "src/index.tsx",
-  
   "scripts": {
     "build-dev": "webpack --mode development",
     "build-prod": "webpack --mode production",
